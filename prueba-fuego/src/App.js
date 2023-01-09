@@ -58,7 +58,7 @@ function App() {
             onClick={handleIncrement}
             width="150px" height="40px"
             bgColor="lightsteelblue"
-            bgColorHover="lightcoral"
+            bgColorHover="lightgreen"
           >
             {`Next >`}
           </Button>
